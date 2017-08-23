@@ -16,6 +16,7 @@ Vue.use(Vuex)
 Vue.use(ElementUI)
 Vue.use(VueResource);
 // Vue.use(VueRouter);
+/*dsadsadaskdjask*/
 
 new Vue({
   el: '#app',
